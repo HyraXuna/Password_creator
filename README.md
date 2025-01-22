@@ -8,5 +8,5 @@ Here you can find the all Python code of it in the file:
 
 # For the application:
 
-You can find in the dist folder the .exe than you can download and use for what you need. 
+You can find in the dist folder the .exe than you can download and use for what you need.\\
 ⚠️ It was done on Windows, so it works only on Windows OS !
